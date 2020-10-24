@@ -19,6 +19,7 @@ In this document, the domain model section was the most helpful in developing th
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
+One part of the documantation I could improve on, is the recommendations part. Someday, I would like to be more familiar with the Linux and Mac operating systems to ensure I am making a less biased decision. Mostly my life revolves around the windows platform, which could be one of the reasons I chose it.
 
 How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 
