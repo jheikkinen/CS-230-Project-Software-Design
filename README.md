@@ -15,7 +15,7 @@ The best part of the documentation is developing the requirements for the server
 
 What about the process of working through a design document did you find helpful when developing the code?
 
-
+In this document, the domain model section was the most helpful in developing the code. The UML diagram gave me a visual on how the classes should be arranged and communicating with one another. In addition, being able to take that diagram and explain it in words helped gain an understanding on how to develop the code for this project. 
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
