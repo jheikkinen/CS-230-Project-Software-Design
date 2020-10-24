@@ -27,3 +27,6 @@ Identifying key characteristics of what the user wants helped guide the decision
 
 
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+
+What helped with approaching the software design was writing down the key parts of the UML diagram. Doing so ensures that I remember the key parts to focus on for writing the code and creating the classes. In the future, I will write down key components of the UML diagram prior to writing code for software. 
+
