@@ -11,8 +11,10 @@ In this project, the company wanted to expand Draw It or Lose It to mutiple plat
 
 What did you do particularly well in developing this documentation?
 
+The best part of the documentation is developing the requirements for the server side, client side, and development tools section of the software design document. It required me to submit each operating platform's specifications to maximize the software developing capability for each platform. Overall, this allowed me to see how this applications should be coonfigured to reach multiple platforms.
 
 What about the process of working through a design document did you find helpful when developing the code?
+
 
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
