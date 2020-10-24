@@ -23,5 +23,7 @@ One part of the documantation I could improve on, is the recommendations part. S
 
 How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 
+Identifying key characteristics of what the user wants helped guide the decision on choosing the design pattern. Adding the singleton and iterator pattern to the design allowed only one game instance of a specific name to run one at a time. It is important to identify user needs like this because the software would potentially be designed different and would not function according to the user's expectations. Which would cost the business money and respect of the end user. 
+
 
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
